@@ -28,7 +28,7 @@
     "gatsby-source-filesystem": "2.1.30",
     "gatsby-transformer-react-docgen": "^4.1.3",
     "gatsby-transformer-remark": "^2.6.27",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-docgen-annotation-resolver": "^2.0.0",
